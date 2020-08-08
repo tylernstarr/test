@@ -1,3 +1,4 @@
+selection,library,condition,site,label_site,wildtype,mutation,protein_chain,protein_site,mut_escape_frac_epistasis_model,mut_escape_frac_single_mut,site_total_escape_frac_epistasis_model,site_total_escape_frac_single_mut,site_avg_escape_frac_epistasis_model,site_avg_escape_frac_single_mut
 NHP_serum_1000,average,NHP_serum_1000,1,331,N,A,E,331,0,0.001904,0.01156,0.02633,0.0006082,0.001386
 NHP_serum_1000,average,NHP_serum_1000,1,331,N,C,E,331,0.001513,0.001965,0.01156,0.02633,0.0006082,0.001386
 NHP_serum_1000,average,NHP_serum_1000,1,331,N,D,E,331,0.0002313,0.001218,0.01156,0.02633,0.0006082,0.001386
